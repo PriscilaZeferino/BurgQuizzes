@@ -1,0 +1,198 @@
+body
+{
+
+    background-color: white;
+    color: black;
+    font-family: 'Langar', cursive;
+    font-size: 70%;
+    margin: auto;
+    padding: auto;
+
+}
+
+
+h1
+{
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+
+h2, p, a
+{
+    font-size: 1rem;
+}
+
+h2, input
+{
+   margin: 10px;
+   padding: 13px;
+}
+
+a
+{
+    display: block;
+    text-align: left;
+    color: #000;
+}
+
+
+a:link
+{
+    color: rgba(58, 2, 2);
+}
+
+a:hover
+{
+    color: #a50c0c;
+}
+
+article
+{
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+
+article h2,
+article p
+{
+    text-align: justify;
+}
+
+input
+{
+    margin: 20px;
+    text-transform: capitalize;
+}
+
+.menu
+{
+    margin: 0;
+    background-color: #a4a4b1;
+    color: #FFF;
+    text-align: center;
+}
+
+.menu li
+{
+    display: inline-block;
+    list-style-type: none;
+    padding: 1rem;
+}
+.menu li a
+{
+    font-size: 1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+}
+
+.menu li a:hover 
+{
+    text-decoration: underline;
+    color: #a50c0c;
+}
+
+.container 
+{
+    margin: 5rem;
+    background-color:white;
+
+}
+
+.container h1{
+    margin-bottom: 2.5rem;
+
+}
+
+.footer
+{
+    margin: 0;
+    padding: 1rem;
+    background-color: #a4a4b1;
+    color: black;    
+    text-align: center;
+}
+
+.modoNoturno, .modoNoturno .container
+{
+    color:white;
+    background-color: black;
+}
+
+.modoNoturno article a
+{ 
+    color: #fff;
+}
+
+.modoNoturno a:hover
+{
+    color: #a50c0c;
+}
+
+.modoNoturno .footer, .modoNoturno .menu, .modoNoturno li a
+{
+    color: #FFF;
+    background-color: #38383b;
+}
+
+a button 
+{
+    background-color: #FFF;
+    border: none;
+}
+
+.block, input
+{
+    display: block;
+    justify-content: center;
+    padding: 10px;
+}
+
+button, h3, p, a
+{
+    margin: 30px;
+}
+
+fieldset
+{
+    padding: 20px;
+    margin: 20px;
+}
+
+h1 
+{
+    margin-left: 20px;
+}
+
+input[type=submit]
+{
+    float: right;
+    margin-right: 20px;
+}
+
+.modoNoturno #secret 
+{
+    color: black;
+}
+
+.modoNoturno #secret a:hover
+{
+    color: #a50c0c;
+}
+
+
+#secret 
+{
+    color: #a4a4b1;
+}
+
+.container img{
+    display: flex;
+}
+img
+{
+    width: 150px;
+    height: 150px;
+    opacity: 5%;
+}

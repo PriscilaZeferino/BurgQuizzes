@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+    <link rel="stylesheet" type="text/css" href="../styles/index.css">
+</head>
+<body>
+    <div class="menu">
+        <ul>
+            <li id='first-item'><a href="../index.html">Home</a></li>
+            <li><a href="./quizzes.html">Quizzes</a></li>
+            <li><a href="./contato.html">Contato</a></li>
+            <li><a href="#"><button id="modo">Ativar modo noturno</button></a></li>
+        </ul>
+    </div>
+    <div class="container">
+            <h1>Contato</h1>
+            <fieldset>
+                <legend>Nome: </legend>
+                <input type="text" name="nome" id="name" size="30" placeholder="Informe seu nome aqui">
+            </fieldset>
+            <fieldset>
+                <legend>Email: </legend>
+                <input type="email" name="email" id="email" size="30" placeholder="Informe seu email aqui" required> 
+            </fieldset>
+            <fieldset>
+                <legend>Comentários: </legend>
+                <textarea name="comments" id="comments" cols="32" rows="10" placeholder="Escreva aqui as suas sugestões, seus comentários, ou suas duvidas. " required></textarea>
+            </fieldset>
+            <input type="submit" id="enviar" value="Enviar formulario">
+        </div>
+        <footer class="footer">
+            <p>Site desenvolvido por Priscila Zeferino</p>
+        </footer>
+    </div>
+        <script src="../scripts/formScript.js"></script>
+        <script src="./scripts/modoNoturno.js"></script>
+
+</body>
+</html>
