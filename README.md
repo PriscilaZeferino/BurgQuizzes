@@ -35,3 +35,6 @@ Feito com 🧡 por Priscila Zeferino.
 ## Informações de Contato 
 - Linkedin: [Priscila Zeferino](https://www.linkedin.com/in/priscila-zeferino-594b5b175/)
 - E-mail: priscila.zeferino23@gmail.com
+
+## Licença
+Este projeto está sob a [licença MIT](https://github.com/PriscilaZeferino/Proffy/blob/master/LICENSE).
