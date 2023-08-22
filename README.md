@@ -1,4 +1,4 @@
-# BurgQuizzes: Plataforma de Quizzes Interativos 📚🎮
+# 📚🎮 BurgQuizzes: Plataforma de Quizzes Interativos 📚🎮
 
 ## Resumo do Projeto 
 O BurgQuizzes é um projeto desenvolvido como trabalho final da disciplina APNP de Desenvolvimento Web I. Trata-se de uma plataforma de quizzes interativos construída utilizando HTML, CSS e JavaScript.
